@@ -6,7 +6,7 @@ const paddledata = [
     artist: 'Gearbox',
     cost: '274.99'
     maker_id: 1,
-    filename: '01gearbox.webp',
+    filename: '01gearbox.jpeg',
     description:
       'Power. Spin. Plush Feel. Touch. Precision. Reach.',
   },
@@ -15,7 +15,7 @@ const paddledata = [
     artist: 'Gearbox',
     cost: '274.99',
     maker_id: 1,
-    filename: '02gearbox.webp',
+    filename: '02gearbox.jpeg',
     description: 'Control. Spin. Plush Feel. Touch. Precision. Reach.',
   },
   {
